@@ -17,6 +17,7 @@ Steps to build and run the application.
 6. Run node index.js to run the application
 7. Open the browser and type the address localhost:8080 to run the application
 
+<h2>License</h2>
 I opted for MIT license since it has very less constraints. Anyone who accesses the repository have full freedom to make any changes on the code unless it affects the publisher. This quality of the license allows it to be both business-friendly and open-source friendly, while still making it possible to be monetized
 
 
